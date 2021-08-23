@@ -1,0 +1,78 @@
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.dll
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.pdb
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\resources.pri
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\AppxManifest.xml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.build.appxrecipe
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\AppManifest.xaml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved_Debug_AnyCPU.xap
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\App.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\MainPage.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.g.resources
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.Resources.AppResources.resources
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.csproj.GenerateResource.Cache
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.dll
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.pdb
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\priconfig.xml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\priconfig.xml.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\layout.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\layout.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\resources.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\resources.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\pri.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\pri.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\qualifiers.txt
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\ProjectArchitectures.txt
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\MDILProjectFiles.xml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\XapCacheFile.xml
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\Glej.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\Gore.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\Mapa.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\VremenskaNapoved\VremenskaNapoved\obj\Debug\Obala.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.dll
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.pdb
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\resources.pri
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\AppxManifest.xml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved.build.appxrecipe
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\AppManifest.xaml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\Bin\Debug\VremenskaNapoved_Debug_AnyCPU.xap
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\App.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\Glej.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\Gore.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\MainPage.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.g.resources
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.Resources.AppResources.resources
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.csproj.GenerateResource.Cache
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.dll
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\VremenskaNapoved.pdb
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\priconfig.xml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\priconfig.xml.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\layout.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\layout.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\resources.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\resources.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\pri.resfiles
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\pri.resfiles.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\qualifiers.txt
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\ProjectArchitectures.txt
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\MDILProjectFiles.xml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\XapCacheFile.xml
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\Nastavitve.g.cs
+C:\Users\Primož Ratej Cvahte\Desktop\MATURITETNA - RATEJ_CO\VremenskaNapoved\VremenskaNapoved\obj\Debug\Mapa.g.cs

@@ -1,0 +1,135 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="VremenskaNapoved.Mapa"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <Grid x:Name="Root" 
+          Background="White">
+
+        <Image HorizontalAlignment="Stretch" 
+               VerticalAlignment="Stretch"
+               Margin="10"
+               Source="SLIKE/MAPA.png"
+               />
+
+        <Button Name="GUMB_MARIBOR"
+                Content="MARIBOR"
+                FontSize="10"
+                CommandParameter="MB"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderThickness="0"
+                Margin="270,271,0,0"
+                Height="100"
+                Padding="0,0,0,0"
+                Width="100"
+                Background="Transparent"
+                Foreground="Black"
+                Click="GUMB_Click"/>
+
+        <Button Name="GUMB_LJUBLJANA"
+                Content="LJUBLJANA"
+                CommandParameter="LJ"
+                FontSize="10"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderThickness="0"
+                Margin="110,381,0,0"
+                Padding="0,0,0,0"
+                Height="100"
+                Width="100"
+                Background="Transparent"
+                Foreground="Black"
+                Click="GUMB_Click"/>
+
+        <Button Name="GUMB_KOPER"
+                Content="KOPER"
+                FontSize="10"
+                CommandParameter="KP"
+                Background="Transparent"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderThickness="0"
+                Margin="29,460,0,0"
+                Height="100"
+                Padding="0,0,0,0"
+                Width="100"
+                Foreground="Black"
+                Click="GUMB_Click"/>
+
+        <Button Name="GUMB_BOVEC"
+                Content="BOVEC"
+                FontSize="10"
+                CommandParameter="BO"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderThickness="0"
+                Margin="0,310,0,0"
+                Padding="0,0,0,0"
+                Height="100"
+                Width="100"
+                Background="Transparent"
+                Foreground="Black"
+                Click="GUMB_Click"/>
+
+        <Button Name="GUMB_NOVOMESTO"
+                Content="NOVO MESTO"
+                FontSize="10"
+                CommandParameter="NM"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderThickness="0"
+                Padding="0,0,0,0"
+                Margin="210,426,0,0"
+                Height="100"
+                Width="100"
+                Background="Transparent"
+                Foreground="Black"
+                Click="GUMB_Click"/>
+
+
+        <!--
+        <Button Name="GUMB_OBALA"
+                Content="OBALA"
+                CommandParameter="OBALA"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderBrush="GreenYellow"
+                BorderThickness="3"
+                Margin="610,280,0,0"
+                Height="80"
+                Width="150"
+                Foreground="GreenYellow"
+                Click="GUMB_Click"/>
+
+        <Button Name="GUMB_GORE"
+                Content="GORE"
+                CommandParameter="GORE"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                BorderBrush="GreenYellow"
+                BorderThickness="3"
+                Margin="610,360,0,0"
+                Height="80"
+                Width="150"
+                Foreground="GreenYellow"
+                
+                Click="GUMB_Click"/>
+        -->
+
+
+
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

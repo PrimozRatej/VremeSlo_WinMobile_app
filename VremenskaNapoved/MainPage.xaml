@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="VremenskaNapoved.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Name="GLAVNA_STRAN"
+                    Margin="10,10,10,10"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch">
+
+            <Image Name="GLAVNA_LOGO"
+                   Source="SLIKE/logo.png"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Height="250"
+                   Width="460"
+                   Margin="0,20,0,0"/>
+
+            <Button Name="GLAVNA_MAPA"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Top"
+                    Background="Transparent"
+                    BorderBrush="Black"
+                    Foreground="Black"
+                    Margin="0,0,0,0"
+                    CommandParameter="MAPA"
+                    Click="GLAVNI_GUMBI_Click"
+                    Content="MAPA"/>
+
+            <Button Name="GLAVNA_OBALA"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Top"
+                    Background="Transparent"
+                    BorderBrush="Black"
+                    Foreground="Black"
+                    Margin="0,0,0,0"
+                    CommandParameter="NASTAVITVE"
+                    Click="GLAVNI_GUMBI_Click"
+                    Content="NASTAVITVE"/>
+
+            <TextBlock Name="GLAVNA_INFORMACIJE"
+                       Foreground="Black"
+                       HorizontalAlignment="Center"
+                       TextWrapping="Wrap">
+
+            </TextBlock>
+        </StackPanel>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
